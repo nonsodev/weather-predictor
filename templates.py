@@ -14,7 +14,8 @@ list_of_files = [
     "src/exception.py",
     "requirements.txt",
     "setup.py",
-    "Dockerfile"
+    "Dockerfile",
+    "notebooks/explore_dataset.ipynb"
 ]
 
 for files in list_of_files:
