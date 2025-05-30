@@ -4,4 +4,6 @@ scikit-learn
 tensorflow==2.18.0
 matplotlib
 ipykernel
--e .
+flask
+flask_cors
+# -e .
